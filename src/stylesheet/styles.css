@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+html, 
+body{
+    font: 18px;
+    background-color: whitesmoke;
+    flex-direction: "column";
+    justify-content: 'center';
+    align-items:'center';
+}
+
+ button {
+    background-color:black;
+    color: aqua;
+    padding: 5px 15px;
+    border-radius: 5px;
+    outline: 0;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 0px 2px 2 px lightcyan;
+    margin-left: 2%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    
+} 
+label {
+    margin-right: 1%;
+}
